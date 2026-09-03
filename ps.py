@@ -1,0 +1,25 @@
+Name="prasanna"
+age=49
+Branch="AIML-B"
+Amount=49.56
+Bool=True
+print(type(Name))
+print(type(age))
+print(type(Branch))
+print(type(Amount))
+print(type(Bool))
+val="Hello"*3
+print(val)
+val=100
+print(val)
+val=12.34
+print(val)
+Str="Hello"
+num=10
+print(str)
+O/p
+print(num)
+o/p
+print(age)
+o/p
+name=input("what's your name")
